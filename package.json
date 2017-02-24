@@ -1,0 +1,27 @@
+{
+  "name": "gulp-github",
+  "version": "1.0.0",
+  "description": "this is my first github-gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JxyMr/gulp-github.git"
+  },
+  "author": "jxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JxyMr/gulp-github/issues"
+  },
+  "homepage": "https://github.com/JxyMr/gulp-github#readme",
+  "devDependencies": {
+    "gulp-imagemin": "^3.1.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.0.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
